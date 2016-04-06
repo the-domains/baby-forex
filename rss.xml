@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Baby Forex]]></title>
         <description><![CDATA[Baby Forex]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/baby-forex/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 17:39:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Apr 2016 17:50:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/baby-forex/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Introduction]]></title>
+            <description><![CDATA[<article><h1>Introduction</h1><p>Bringing Forex Trading to a whole new basic. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/316f0808-d134-43e4-8eba-d39db7c800d5.png"></article>]]></description>
+            <link>https://thegrid.ai/baby-forex/introduction/index.html</link>
+            <guid isPermaLink="false">2ee42d4f-599f-4f41-817a-9cdc0377c762</guid>
+            <pubDate>Wed, 06 Apr 2016 17:50:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7fb2b3d-d1d3-4b82-9dcd-5c8cc42b66d4.gif">]]></description>
-            <link>undefined8b0cb09a-94da-4adc-bb0c-f2c82924e9cf/index.html</link>
+            <link>https://thegrid.ai/baby-forex/8b0cb09a-94da-4adc-bb0c-f2c82924e9cf/index.html</link>
             <guid isPermaLink="false">8b0cb09a-94da-4adc-bb0c-f2c82924e9cf</guid>
             <pubDate>Wed, 06 Apr 2016 17:39:54 GMT</pubDate>
         </item>
